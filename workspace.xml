@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="250574f1-95f8-465d-a722-1403715636d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/QC_Assessment/Report.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_Assessment/src/main/java/RegistrationData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_Assessment/src/main/java/SignOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_Assessment/src/main/java/SignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QC_Assessment/src/test/java/SignUpCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QC_Assessment/src/main/java/AddRecordHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QC_Assessment/src/main/java/DeleteHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QC_Assessment/src/main/java/LoginHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QC_Assessment/src/main/java/SearchHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QC_Assessment/src/test/java/TestsExecution.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/QC_Assessment" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gHwqtSoScxeI9RMmXbF6VPLqe8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Registration"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.SignUpCycle (1)">
+    <configuration name="SignUpCycle (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QC_Assessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpCycle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpCycle (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QC_Assessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpCycle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpCycle (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QC_Assessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpCycle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpCycle (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QC_Assessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpCycle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpCycle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QC_Assessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpCycle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.SignUpCycle (1)" />
+      <item itemvalue="TestNG.SignUpCycle (2)" />
+      <item itemvalue="TestNG.SignUpCycle (3)" />
+      <item itemvalue="TestNG.SignUpCycle (4)" />
+      <item itemvalue="TestNG.SignUpCycle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SignUpCycle (1)" />
+        <item itemvalue="TestNG.SignUpCycle (4)" />
+        <item itemvalue="TestNG.SignUpCycle" />
+        <item itemvalue="TestNG.SignUpCycle (3)" />
+        <item itemvalue="TestNG.SignUpCycle (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="250574f1-95f8-465d-a722-1403715636d1" name="Changes" comment="" />
+      <created>1715368004438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715368004438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/QC_Assessment/src/test/java/SignUpCycle.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
